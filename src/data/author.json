@@ -1,18 +1,17 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Micah Mills",
+    "occupation": "Web Developer",
+    "location": "Turkey / USA",
+    "avatar": "micahmills.jpeg",
+    "email": "micahmills@gmail.com",
+    "telephone": "+01 (812) 463-2256",
+    "website": "https://micahmills.net",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
-        "React",
+        "Wordpress",
+        "JAM stack",
         "Git"
     ],
     "languages": [
@@ -21,24 +20,19 @@
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "Turkish",
+            "level": "basic"
         },
         {
-            "name": "French",
+            "name": "Farsi",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
-            "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "@micahmills",
+            "url": "https://github.com/micahmills"
         }
     ]
 }

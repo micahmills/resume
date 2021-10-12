@@ -1,7 +1,8 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: Bachelor of Science - Anthropology and World Religions
+organization: Boyce College
+organizationUrl: https://boycecollege.com/
+location: Louisville, KY
+start: 2002-08-01
+end: 2006-01-31
 ---

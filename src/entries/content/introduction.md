@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the full stack web design and development. My focus has been using the latest in web technology to provide amazing experience for users while not forgetting those that might not have access to the latest technology.
+With over 11 years experience in full stack web design and development, my focus has been using latest web technologies to provide amazing user experience without forgetting those that might not have access to state-of-the-art technology.

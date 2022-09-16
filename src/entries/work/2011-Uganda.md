@@ -8,4 +8,5 @@ end: 2012-07-15
 ---
 
 Assisting with the training and development of leaders and systems in churches and non-governmental organizations doing relief work throughout Uganda, specifically to those with Disabilities.
-- As an apprentice to seasoned missionaries, I worked to learn the local language and culture, oversaw the construction of buildings at a developing training center, built and maintained web-sites and web applications, trained local churches on the sovereignty of God and suffering, and distributed wheelchairs giving dignity and hope to the disabled people of Uganda. 
+- Oversaw the construction of several buildings at the organizations training center.
+- Built and maintained a custom web application that allowed the organization to more easily track the progress of their projects and the people they were serving. Constrained by limited internet access and a lack of power, the application was built as a client side application using HTML, CSS, and Javascript and stored data locally in an SQLite database that was synced with the server when a connection was available.

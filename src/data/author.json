@@ -1,7 +1,7 @@
 {
     "name": "Micah Mills",
     "occupation": "Web Developer",
-    "location": "Turkey / USA",
+    "location": "USA / Turkey",
     "avatar": "micahmills2.jpg",
     "email": "micahmills@gmail.com",
     "telephone": "+1 (812) 463-2256",
@@ -16,20 +16,6 @@
         "Wordpress",
         "Cloud and Serverless Functions",
         "Git"
-    ],
-    "languages": [
-        {
-            "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "Turkish",
-            "level": "basic"
-        },
-        {
-            "name": "Farsi",
-            "level": "basic"
-        }
     ],
     "social": [
         {

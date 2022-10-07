@@ -8,8 +8,6 @@ start: 2012-07-15
 
 Designing and Developing web sites, apps and tools for companies, and non-profits around the globe.
 
-- Worked with numerous teams, companies, and organizations to produce products that meet the unique needs of their users. 
-- Well versed in the entire development process from initial planning and market research to product design, development, and implementation.
-- Experienced with backend technologies (PHP, Node.js, MySQL, NoSQL Databases, Cloud and Serverless Functions) and frontend technologies (HTML, CSS, Javascript, Web Components, Lit, and React).
-- Comfortable with Agile Development and Project Management tools (Github, Trello, and Jira).
-
+- Re-engineered the donation and giving platform for a local non-profit to allow for more efficient and effective tracking of donations and giving.
+- Created and maintained a custom learning management system to modernize the safety training process for industrial clients in the United States. Reducing the time to complete training and cost to administer training to all new employees.
+- Worked with numerous clients to understand the needs in their industry and create and update the web presence to better serve their customers and clients. 
